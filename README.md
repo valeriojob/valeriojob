@@ -1,7 +1,7 @@
 - Building a better future using AI-, Quantum-, and Bitcoin Technologies.
 - MSc Computer Scicen at University of Basel.
 - AI Software at IBM, Switzerland.
-- Currently building mydirector.ai & deepdoc.health.
+- Currently building mydirector.ai & deepdoc.health, swissinterns.ch.
 - Email: valerio@valeriojob.com
 
 <!---
