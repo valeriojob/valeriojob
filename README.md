@@ -3,7 +3,7 @@
 - AI Software at IBM, Switzerland.
 - Currently building mydirector.ai & deepdoc.health, swissinterns.ch.
 - Email: valerio@valeriojob.com
-
+- https://link.me/valeriojob
 <!---
 valeriojob/valeriojob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
